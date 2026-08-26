@@ -1,0 +1,8 @@
+[submodule "framework"]
+	path = framework
+	url = https://github.com/umicom-foundation/umicom-framework.git
+	branch = main
+[submodule "applications/bank"]
+	path = applications/bank
+	url = https://github.com/umicom-foundation/umicom-bank-module.git
+	branch = main
